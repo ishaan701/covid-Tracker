@@ -1,5 +1,5 @@
 # COVID-19 Tracker
 
-<!-- ### [Live Site](https://covid19statswebsite.netlify.com/) -->
+### [Live Site](https://ishaan-covid-tracker.netlify.app/)
 
 
